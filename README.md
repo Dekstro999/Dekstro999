@@ -1,6 +1,6 @@
 ### <h1 align="center">IBARRA GALINDO DIEGO A.</h1>
 
-![Captura de pantalla del juego](https://i.ibb.co/9W1YGtq/interfaz.png)
+![Captura de pantalla del juego](https://ibb.co/c6FNVdT)
 
 ## Ing. Software 
 
