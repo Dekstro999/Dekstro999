@@ -23,6 +23,8 @@ PHP
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dekstro999&show_icons=true&theme=radical)
 
+<!-- Insertar el contenido de languages_stats.md aquí -->
+
 
 - **Herramientas y tecnologías**:
 SQL
