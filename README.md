@@ -13,6 +13,9 @@ C
 C++
 Python
 PHP
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Dekstro999=tu-usuario)](https://github.com/anuraghazra/github-readme-stats)
+
 - **Herramientas y tecnologías**:
 SQL
 Arduino
