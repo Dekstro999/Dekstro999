@@ -16,8 +16,8 @@ PHP
 
 [![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dekstro999&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dekstro999&show_icons=true&theme=radical)
 
-[![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dekstro999&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 - **Herramientas y tecnologías**:
 SQL
