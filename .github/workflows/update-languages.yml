@@ -24,7 +24,7 @@ jobs:
 
       - name: Run language stats script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: python script.py
 
       - name: Update README.md with language stats

@@ -1,10 +1,12 @@
+import os
 import requests
 from collections import defaultdict
 
 # Reemplaza 'your-username' con tu nombre de usuario de GitHub
 username = 'Dekstro999'
-# Reemplaza 'your-token' con tu token de acceso personal de GitHub
-token = 'MY_GITHUB_TOKEN'
+
+# Obtiene el token de acceso personal de las variables de entorno
+token = os.getenv('MY_GITHUB_TOKEN')
 
 headers = {
     'Authorization': f'token {token}'
@@ -16,7 +18,7 @@ def get_repos(username):
     return response.json()
 
 def get_languages(repo):
-    url = repo['languages_url'] 
+    url = repo['languages_url']
     response = requests.get(url, headers=headers)
     return response.json()
 
