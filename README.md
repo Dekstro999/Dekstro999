@@ -4,7 +4,7 @@
 
 ## Ing. Software 
 
-Hola, mi nombre es [Diego] y soy estudiante de [ingenieria en software]. Tengo experiencia en creacion de video juegos, interface grafica y manejo de bases de datos.
+Hola, mi nombre es **Diego** y soy estudiante de *ingenieria en software*. Tengo experiencia en creacion de video juegos, interface grafica y manejo de bases de datos.
 
 ## Habilidades
 
@@ -53,7 +53,7 @@ Tec. Electronica
 
 ## Educación
 
-- **[UABC]** - [ING. SOFTWARE]
+- **UABC** - *ING. SOFTWARE*
 
 <!-- ## Experiencia Profesional
 
