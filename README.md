@@ -32,7 +32,8 @@ Tec. Electronica
 
 ## Proyectos Destacados
 
-### Proyecto 1: [Cosmic-Caos]
+### Proyecto 1: 
+# <h1 align="center">COSMIC-CHAOS.</h1>
 
 ![Captura de pantalla del juego](https://i.ibb.co/9W1YGtq/interfaz.png)
 
