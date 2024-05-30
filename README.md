@@ -14,6 +14,9 @@ C++
 Python
 PHP
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dekstro999)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dekstro999&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 - **Herramientas y tecnologías**:
