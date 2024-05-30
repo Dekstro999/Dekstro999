@@ -16,7 +16,7 @@ def get_repos(username):
     return response.json()
 
 def get_languages(repo):
-    url = repo['languages_url']
+    url = repo['languages_url'] 
     response = requests.get(url, headers=headers)
     return response.json()
 
