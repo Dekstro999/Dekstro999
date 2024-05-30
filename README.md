@@ -38,7 +38,9 @@ Tec. Electronica
 ![Captura de pantalla del juego](https://i.ibb.co/9W1YGtq/interfaz.png)
 
 ---
-
+- *Colaboadores*:
+  - [FrankSkep](https://github.com/FrankSkep)
+  
 - **Repositorio**: [COSMIC-CHAOS](https://github.com/Dekstro999/COSMIC-CHAOS)
 
 ## Proyecto 2: 
