@@ -32,13 +32,22 @@ Tec. Electronica
 
 ## Proyectos Destacados
 
-### Proyecto 1: - <h1 align="center">COSMIC-CHAOS.</h1>
+## Proyecto 1: 
+- <h1 align="center">COSMIC-CHAOS.</h1>
 
 ![Captura de pantalla del juego](https://i.ibb.co/9W1YGtq/interfaz.png)
 
 ---
 
-- **Repositorio**: [Enlace al repositorio](https://github.com/Dekstro999/COSMIC-CHAOS)
+- **Repositorio**: [COSMIC-CHAOS](https://github.com/Dekstro999/COSMIC-CHAOS)
+
+## Proyecto 2: 
+-  <h1 align="center">YourDownload.</h1>
+
+![Captura de pantalla del juego](https://i.ibb.co/vs3s75M/Your-Download.jpg)
+
+- **Repositorio**: [Enlace al repositorio](https://github.com/Dekstro999/ytDown)
+
 
 ## Educación
 
