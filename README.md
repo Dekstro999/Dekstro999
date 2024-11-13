@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Diego and I'm a Software Engineer from Mexico.</h2>
+
+### <h1 align="center">Hi 👋! My name is Diego and I'm a Software Engineer from Mexico.</h1>
+
+![](https://i.ibb.co/Wkycj1K/fondo.jpg)
+
 
 ###
 
@@ -9,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/f20492233c0823b10ed9352888eb72b4/99f282e2193e3ea0-31/s1280x1920/a64a8cc8caaed755e216770184680c0924d5928c.gif"  />
+<img align="right" height="100" src="https://64.media.tumblr.com/f20492233c0823b10ed9352888eb72b4/99f282e2193e3ea0-31/s1280x1920/a64a8cc8caaed755e216770184680c0924d5928c.gifv"  />
 
 ###
 
@@ -86,5 +90,4 @@ Hola, mi nombre es **Diego** y soy estudiante de *Ingeniería en Software*. Teng
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/Dekstro999/Dekstro999/blob/output/snake.svg)
