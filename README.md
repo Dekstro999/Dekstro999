@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="130" src="https://i.ibb.co/xjm4Kr8/Heimer.webp"/>
+<img align="right" height="150" src="https://i.ibb.co/xjm4Kr8/Heimer.webp"/>
 
 ###
 
@@ -59,6 +59,9 @@
   <a href="mailto:diego.galindo14@uabc.edu.mx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <a href="https://discord.gg/BjYKKX8P" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 
@@ -66,7 +69,7 @@
 
 <br clear="both">
 
-## 👨‍💻 About Me
+## 🧑🏻‍💻 About Me
 
 Hola, mi nombre es **Diego** y soy estudiante de *Ingeniería en Software*. Tengo experiencia en creación de videojuegos, interfaces gráficas y manejo de bases de datos.
 
@@ -102,7 +105,9 @@ Hola, mi nombre es **Diego** y soy estudiante de *Ingeniería en Software*. Teng
 
 <div align="center">
   <h1>YourDownload</h1>
+  <a href="https://github.com/Dekstro999/ytDown" target="_blank">
   <img src="https://i.ibb.co/vs3s75M/Your-Download.jpg" alt="Captura de pantalla del proyecto" />
+  </a>
 </div>
 
 - **Repositorio**: [YourDownload](https://github.com/Dekstro999/ytDown)
