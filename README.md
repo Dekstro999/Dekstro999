@@ -2,7 +2,7 @@
 ### <h1 align="center">Hi 👋! My name is Diego and I'm a Software Engineer from Mexico.</h1>
 
 ![](https://i.ibb.co/Wkycj1K/fondo.jpg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C10B1,100:B11013&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff" height="300" />
 
 ###
 
@@ -18,6 +18,8 @@
 <img align="right" height="150" src="https://i.ibb.co/xjm4Kr8/Heimer.webp"/>
 
 ###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -116,7 +118,9 @@ Hola, mi nombre es **Diego** y soy estudiante de *Ingeniería en Software*. Teng
 
 - **Universidad Autónoma de Baja California (UABC)** - *Ingeniería en Software*
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ffd200&height=120&section=footer" height="200"/>
 ---
+
 
 <br clear="both">
 
