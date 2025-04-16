@@ -118,7 +118,7 @@ Hola, mi nombre es **Diego** y soy estudiante de *Ingeniería en Software*. Teng
 
 - **Universidad Autónoma de Baja California (UABC)** - *Ingeniería en Software*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ffd200&height=120&section=footer" height="200"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:313131,100:797979&height=120&section=footer" height="200"/>
 ---
 
 
