@@ -2,6 +2,8 @@
 ### <h1 align="center">Hi 👋! My name is Diego and I'm a Software Engineer from Mexico.</h1>
 
 ![](https://i.ibb.co/Wkycj1K/fondo.jpg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:313131,100:797979&height=120&section=footer" height="200"/>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C10B1,100:B11013&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff" height="300" />
 
 ###
