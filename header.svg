@@ -1,0 +1,15 @@
+<svg width="1000" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Imagen de fondo -->
+  <image href="https://capsule-render.vercel.app/api?type=waving&color=0:3C10B1,100:B11013&height=300&section=header" height="300" width="1000"/>
+  
+  <!-- Texto encima -->
+  <text x="50%" y="100" text-anchor="middle" font-size="40" fill="#ffffff" font-family="Arial">
+    Hi 👋!
+  </text>
+  <text x="50%" y="160" text-anchor="middle" font-size="30" fill="#ffffff" font-family="Arial">
+    My name is Diego
+  </text>
+  <text x="50%" y="210" text-anchor="middle" font-size="30" fill="#ffffff" font-family="Arial">
+    and I'm a Software Engineer from Mexico
+  </text>
+</svg>

@@ -2,16 +2,18 @@
 ### <h1 align="center">Hi 👋! My name is Diego and I'm a Software Engineer from Mexico.</h1>
 
 ![](https://i.ibb.co/Wkycj1K/fondo.jpg)
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:313131,100:797979&height=120&section=footer" height="200"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:313131,50:797979&height=200&section=footer" height=300"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C10B1,100:B11013&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff" height="300"/>
+</div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C10B1,100:B11013&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff" height="300" />
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dekstro999&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dekstro999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dekstro999&theme=redical" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dekstro999&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="212" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dekstro999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="212" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dekstro999&theme=redical" height="360" alt="activity-graph graph"  />
 </div>
 
 
