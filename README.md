@@ -1,9 +1,18 @@
 
-### <h1 align="center">Hi 👋! My name is Diego and I'm a Software Engineer from Mexico.</h1>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=60&duration=1000&pause=2000&color=8C33F7&center=true&vCenter=true&multiline=true&width=1435&height=200&lines=Hi+%F0%9F%91%8B!+My+name+is+Diego+;I'm+a+Software+Engineer+from+Mexico)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:313131,100:797979&height=160&section=footer&text=Welcome%20to%20my%20GitHub!&fontSize=45&fontAlign=50&fontColor=ffffff" width="1600">
 ![](https://i.ibb.co/Wkycj1K/fondo.jpg)
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:313131,100:797979&&section=footer" height="200"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C10B1,100:B11013&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff" height="300"/>
+
+</div>
+
+
+<p align="center" style="margin:0;padding:0;">
+
+</p>
+
+
 
 
 ###
