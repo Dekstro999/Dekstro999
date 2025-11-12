@@ -86,7 +86,7 @@ Hola, mi nombre es **Diego** y soy estudiante de *Ingeniería en Software*. Teng
 ## 🔧 Habilidades
 
 - **Lenguajes de programación**: 
-  - C
+  - C 
   - C++
   - Python
   - PHP
