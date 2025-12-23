@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:313131,100:797979&height=160&section=footer&text=Welcome%20to%20my%20GitHub!&fontSize=45&fontAlign=50&fontColor=ffffff" width="1600">
 ![](https://i.ibb.co/Wkycj1K/fondo.jpg)
 
-
+  
      
 </p>
 
