@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Portafolio de Diego Alonso Ibarra Galindo, desarrollador full stack especializado en React, TypeScript, Java, .NET y Python."
+    />
+    <meta name="theme-color" content="#090a0f" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_MX" />
+    <meta property="og:title" content="Diego Ibarra — Full Stack Developer" />
+    <meta
+      property="og:description"
+      content="Desarrollo productos web, aplicaciones de escritorio y sistemas empresariales."
+    />
+    <meta property="og:image" content="https://i.ibb.co/xjm4Kr8/Heimer.webp" />
+    <title>Diego Ibarra — Full Stack Developer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content" data-es="Saltar al contenido" data-en="Skip to content">Saltar al contenido</a>
+    <span class="page-top" id="top" aria-hidden="true"></span>
+
+    <svg class="svg-sprite" aria-hidden="true">
+      <symbol id="icon-code" viewBox="0 0 24 24"><path d="m8 9-3 3 3 3M16 9l3 3-3 3M14 5l-4 14" /></symbol>
+      <symbol id="icon-server" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="6" rx="1" /><rect x="3" y="14" width="18" height="6" rx="1" /><path d="M7 7h.01M7 17h.01M11 7h6M11 17h6" /></symbol>
+      <symbol id="icon-window" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="1" /><path d="M3 9h18M7 6.5h.01M10 6.5h.01" /></symbol>
+      <symbol id="icon-check" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5" /><path d="M12 3a9 9 0 1 1-8.4 5.8" /></symbol>
+      <symbol id="icon-folder" viewBox="0 0 24 24"><path d="M3 6.5h7l2 2h9v10H3z" /></symbol>
+      <symbol id="icon-mail" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="1" /><path d="m4 7 8 6 8-6" /></symbol>
+      <symbol id="icon-github" viewBox="0 0 24 24"><path d="M15 22v-3.9c.04-1-.35-1.96-1.1-2.64 3.6-.4 7.38-1.77 7.38-8A6.24 6.24 0 0 0 19.61 3a5.8 5.8 0 0 0-.16-4S18.4-1.4 15 1a15.4 15.4 0 0 0-6 0C5.6-1.4 4.55-1 4.55-1a5.8 5.8 0 0 0-.16 4 6.24 6.24 0 0 0-1.67 4.47c0 6.21 3.78 7.58 7.38 8-.74.67-1.13 1.62-1.1 2.62V22" /><path d="M9 19c-3 .92-3-1.5-4.2-2" /></symbol>
+      <symbol id="icon-external" viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9" /><path d="M19 13v6H5V5h6" /></symbol>
+    </svg>
+
+    <div class="ambient-grid" aria-hidden="true"></div>
+    <div class="pointer-glow" aria-hidden="true"></div>
+    <div class="glitch-blocks" aria-hidden="true">
+      <span></span><span></span><span></span><span></span>
+      <span></span><span></span><span></span><span></span>
+    </div>
+    <div class="teleport-glitch" aria-hidden="true">
+      <span></span><span></span><span></span><span></span><span></span>
+      <span></span><span></span><span></span><span></span><span></span>
+    </div>
+
+    <header class="site-header">
+      <nav class="nav-shell" aria-label="Navegación principal" data-aria-es="Navegación principal" data-aria-en="Main navigation">
+        <a class="brand" href="#top" aria-label="Ir al inicio" data-aria-es="Ir al inicio" data-aria-en="Go to top">
+          <span class="brand-mark" aria-hidden="true">&gt;_</span>
+          <span>DEKSTRO<span class="accent">999</span></span>
+        </a>
+
+        <div class="nav-links" id="nav-links">
+          <a href="#perfil" data-es="Perfil" data-en="Profile">Perfil</a>
+          <a href="#stack" data-es="Stack" data-en="Stack">Stack</a>
+          <a href="#proyectos" data-es="Proyectos" data-en="Projects">Proyectos</a>
+          <a href="#experiencia" data-es="Experiencia" data-en="Experience">Experiencia</a>
+          <a href="#contacto" data-es="Contacto" data-en="Contact">Contacto</a>
+        </div>
+
+        <div class="nav-actions">
+          <span class="availability">
+            <span class="status-dot" aria-hidden="true"></span>
+            <span data-es="Disponible" data-en="Available">Disponible</span>
+          </span>
+          <div class="language-switch" role="group" aria-label="Seleccionar idioma" data-aria-es="Seleccionar idioma" data-aria-en="Choose language">
+            <button class="language-button is-active" type="button" data-language="es" aria-pressed="true">ES</button>
+            <span aria-hidden="true">/</span>
+            <button class="language-button" type="button" data-language="en" aria-pressed="false">EN</button>
+          </div>
+          <button class="menu-button" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Abrir menú" data-aria-es="Abrir menú" data-aria-en="Open menu">
+            <span></span><span></span>
+          </button>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main-content">
+      <section class="hero section-shell" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <div class="eyebrow reveal">
+            <span class="prompt">diego@portfolio:~$</span>
+            <span class="typing-line" data-type-es="whoami --verbose" data-type-en="whoami --verbose">whoami --verbose</span>
+            <span class="terminal-cursor" aria-hidden="true"></span>
+          </div>
+
+          <h1 id="hero-title" class="reveal">
+            <span data-es="Construyo software que" data-en="I build software that">Construyo software que</span>
+            <span class="gradient-text glitch-text" data-es="resuelve lo complejo." data-en="makes complexity useful." data-glitch-es="resuelve lo complejo." data-glitch-en="makes complexity useful." data-glitch="resuelve lo complejo.">resuelve lo complejo.</span>
+          </h1>
+
+          <p class="hero-description reveal" data-es="Soy Diego, desarrollador full stack en Ensenada. Transformo requerimientos en productos web, sistemas empresariales y experiencias de escritorio sólidas, medibles y fáciles de usar." data-en="I'm Diego, a full stack developer based in Ensenada. I turn requirements into solid, measurable and easy-to-use web products, enterprise systems and desktop experiences.">
+            Soy Diego, desarrollador full stack en Ensenada. Transformo requerimientos en productos web, sistemas empresariales y experiencias de escritorio sólidas, medibles y fáciles de usar.
+          </p>
+
+          <div class="hero-actions reveal">
+            <a class="button button-primary" href="#proyectos">
+              <svg class="icon" aria-hidden="true"><use href="#icon-folder"></use></svg>
+              <span data-es="Ver proyectos" data-en="View projects">Ver proyectos</span>
+              <span aria-hidden="true">↘</span>
+            </a>
+            <a class="button button-ghost" href="mailto:diego.galindo14@uabc.edu.mx">
+              <svg class="icon" aria-hidden="true"><use href="#icon-mail"></use></svg>
+              <span data-es="Contactarme" data-en="Contact me">Contactarme</span>
+              <span aria-hidden="true">→</span>
+            </a>
+          </div>
+
+          <div class="hero-meta reveal" aria-label="Información rápida" data-aria-es="Información rápida" data-aria-en="Quick information">
+            <span><span class="meta-key">LOC</span> Ensenada, MX</span>
+            <span><span class="meta-key">ROLE</span> Full Stack</span>
+            <span><span class="meta-key">STATUS</span> <span data-es="En curso" data-en="In progress">En curso</span></span>
+          </div>
+        </div>
+
+        <div class="hero-visual reveal" aria-label="Panel visual de Diego" data-aria-es="Panel visual de Diego" data-aria-en="Diego visual panel">
+          <div class="terminal-window portrait-terminal">
+            <div class="terminal-bar">
+              <div class="window-controls" aria-hidden="true"><span></span><span></span><span></span></div>
+              <span>identity.profile</span>
+              <span class="terminal-state">LIVE</span>
+            </div>
+            <div class="portrait-frame">
+              <div class="portrait-scan" aria-hidden="true"></div>
+              <img src="https://i.ibb.co/xjm4Kr8/Heimer.webp" alt="Heimer, firma visual de Diego" data-alt-es="Heimer, firma visual de Diego" data-alt-en="Heimer, Diego's visual signature" />
+              <div class="portrait-fallback" aria-hidden="true">
+                <span>&gt;_</span>
+                <small>DEKSTRO999</small>
+              </div>
+              <span class="corner corner-tl" aria-hidden="true"></span>
+              <span class="corner corner-tr" aria-hidden="true"></span>
+              <span class="corner corner-bl" aria-hidden="true"></span>
+              <span class="corner corner-br" aria-hidden="true"></span>
+            </div>
+            <div class="diagnostic-lines" aria-hidden="true">
+              <span><b>CORE</b><i></i><em>FULL_STACK</em></span>
+              <span><b>MODE</b><i></i><em>BUILDING</em></span>
+              <span><b>UPTIME</b><i></i><em>2025—NOW</em></span>
+            </div>
+          </div>
+          <div class="orbit-tag orbit-tag-one">REACT</div>
+          <div class="orbit-tag orbit-tag-two">SPRING</div>
+          <div class="orbit-tag orbit-tag-three">.NET</div>
+        </div>
+      </section>
+
+      <section class="profile section-shell section-block" id="perfil" aria-labelledby="profile-title">
+        <div class="section-heading reveal">
+          <span class="section-index">01</span>
+          <div>
+            <p class="section-command">cat perfil.md</p>
+            <h2 id="profile-title" data-es="Del requerimiento al producto." data-en="From requirement to product.">Del requerimiento al producto.</h2>
+          </div>
+        </div>
+
+        <div class="profile-grid">
+          <div class="profile-copy reveal">
+            <p data-es="Desarrollo productos digitales de punta a punta: analizo necesidades, diseño la solución, implemento interfaces y servicios, conecto datos, pruebo y documento. Me muevo con comodidad entre frontend, backend y escritorio sin perder de vista la experiencia final." data-en="I develop digital products end to end: I analyze needs, design the solution, implement interfaces and services, connect data, test and document. I move comfortably across frontend, backend and desktop while keeping the final experience in focus.">
+              Desarrollo productos digitales de punta a punta: analizo necesidades, diseño la solución, implemento interfaces y servicios, conecto datos, pruebo y documento. Me muevo con comodidad entre frontend, backend y escritorio sin perder de vista la experiencia final.
+            </p>
+            <p data-es="Mi fortaleza está en traducir complejidad técnica y operativa en software mantenible, con decisiones claras y resultados verificables." data-en="My strength is translating technical and operational complexity into maintainable software, with clear decisions and verifiable outcomes.">
+              Mi fortaleza está en traducir complejidad técnica y operativa en software mantenible, con decisiones claras y resultados verificables.
+            </p>
+          </div>
+          <div class="metric-card reveal">
+            <span class="metric-value" data-counter="192">192</span>
+            <span class="metric-label" data-es="requerimientos refinados y documentados" data-en="requirements refined and documented">requerimientos refinados y documentados</span>
+            <span class="metric-code">REQ.LOG // VALIDATED</span>
+          </div>
+          <div class="metric-card reveal">
+            <span class="metric-value" data-counter="348">348</span>
+            <span class="metric-label" data-es="casos de prueba preparados y analizados" data-en="test cases prepared and analyzed">casos de prueba preparados y analizados</span>
+            <span class="metric-code">QA.RUN // PASSED</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="stack section-shell section-block" id="stack" aria-labelledby="stack-title">
+        <div class="section-heading reveal">
+          <span class="section-index">02</span>
+          <div>
+            <p class="section-command">ls ./skills --group</p>
+            <h2 id="stack-title" data-es="Tecnología con propósito." data-en="Technology with purpose.">Tecnología con propósito.</h2>
+          </div>
+        </div>
+
+        <div class="stack-grid">
+          <article class="stack-card reveal">
+            <div class="stack-card-head"><span>01</span><svg class="icon stack-icon" aria-hidden="true"><use href="#icon-code"></use></svg><h3>Frontend</h3></div>
+            <p data-es="Interfaces rápidas, reutilizables y responsivas conectadas a productos reales." data-en="Fast, reusable and responsive interfaces connected to real products.">Interfaces rápidas, reutilizables y responsivas conectadas a productos reales.</p>
+            <ul class="tag-list"><li>TypeScript</li><li>React</li><li>Svelte</li><li>SvelteKit</li><li>HTML</li><li>CSS</li></ul>
+          </article>
+          <article class="stack-card reveal">
+            <div class="stack-card-head"><span>02</span><svg class="icon stack-icon" aria-hidden="true"><use href="#icon-server"></use></svg><h3>Backend</h3></div>
+            <p data-es="Servicios, autenticación y comunicación en tiempo real con arquitectura mantenible." data-en="Services, authentication and real-time communication with maintainable architecture.">Servicios, autenticación y comunicación en tiempo real con arquitectura mantenible.</p>
+            <ul class="tag-list"><li>Java</li><li>Spring Boot</li><li>C#</li><li>.NET</li><li>Python</li><li>REST</li><li>JWT</li><li>WebSockets</li></ul>
+          </article>
+          <article class="stack-card reveal">
+            <div class="stack-card-head"><span>03</span><svg class="icon stack-icon" aria-hidden="true"><use href="#icon-window"></use></svg><h3 data-es="Apps + Datos" data-en="Apps + Data">Apps + Datos</h3></div>
+            <p data-es="Experiencias de escritorio y móviles respaldadas por datos persistentes." data-en="Desktop and mobile experiences backed by persistent data.">Experiencias de escritorio y móviles respaldadas por datos persistentes.</p>
+            <ul class="tag-list"><li>Electron</li><li>React Native</li><li>CustomTkinter</li><li>PostgreSQL</li><li>SQLite</li><li>SQL</li></ul>
+          </article>
+          <article class="stack-card reveal">
+            <div class="stack-card-head"><span>04</span><svg class="icon stack-icon" aria-hidden="true"><use href="#icon-check"></use></svg><h3 data-es="Calidad + Entrega" data-en="Quality + Delivery">Calidad + Entrega</h3></div>
+            <p data-es="Validación, análisis y despliegue como parte del desarrollo, no como un paso final." data-en="Validation, analysis and deployment as part of development, not a final step.">Validación, análisis y despliegue como parte del desarrollo, no como un paso final.</p>
+            <ul class="tag-list"><li>SonarQube</li><li>CodeScene</li><li>PowerMapper</li><li>Git</li><li>Vercel</li><li>Azure</li></ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="projects section-shell section-block" id="proyectos" aria-labelledby="projects-title">
+        <div class="section-heading reveal">
+          <span class="section-index">03</span>
+          <div>
+            <p class="section-command">find ./projects -type featured</p>
+            <h2 id="projects-title" data-es="Proyectos seleccionados." data-en="Selected projects.">Proyectos seleccionados.</h2>
+          </div>
+        </div>
+
+        <div class="projects-list">
+          <article class="project-card project-featured reveal">
+            <div class="project-number">001</div>
+            <div class="project-content">
+              <div class="project-heading">
+                <div><p class="project-type"><svg class="icon" aria-hidden="true"><use href="#icon-code"></use></svg>FULL STACK · QA</p><h3>Jobsy</h3></div>
+                <span class="project-year">2025—2026</span>
+              </div>
+              <p data-es="Plataforma mexicana que conecta clientes con proveedores de servicios locales mediante reservas, disponibilidad, mensajería y notificaciones." data-en="Mexican platform connecting clients with local service providers through bookings, availability, messaging and notifications.">Plataforma mexicana que conecta clientes con proveedores de servicios locales mediante reservas, disponibilidad, mensajería y notificaciones.</p>
+              <p class="project-impact" data-es="Frontend e integración · 192 requerimientos · 348 casos de prueba" data-en="Frontend and integration · 192 requirements · 348 test cases">Frontend e integración · 192 requerimientos · 348 casos de prueba</p>
+              <ul class="tag-list"><li>React</li><li>TypeScript</li><li>Spring Boot</li><li>JWT</li><li>WebSockets</li></ul>
+              <a class="text-link" href="https://jobsy-app.vercel.app/" target="_blank" rel="noopener noreferrer"><span data-es="Abrir proyecto" data-en="Open project">Abrir proyecto</span><svg class="icon" aria-hidden="true"><use href="#icon-external"></use></svg></a>
+            </div>
+          </article>
+
+          <article class="project-card reveal">
+            <div class="project-number">002</div>
+            <div class="project-content">
+              <div class="project-heading">
+                <div><p class="project-type"><svg class="icon" aria-hidden="true"><use href="#icon-window"></use></svg>PRODUCT · DESKTOP</p><h3>SoftVet</h3></div>
+                <span class="project-year">2026</span>
+              </div>
+              <p data-es="Sistema integral para clínicas veterinarias: agenda, expedientes, hospitalización, inventario, punto de venta, recetas y alertas." data-en="End-to-end veterinary clinic system: scheduling, records, hospitalization, inventory, point of sale, prescriptions and alerts.">Sistema integral para clínicas veterinarias: agenda, expedientes, hospitalización, inventario, punto de venta, recetas y alertas.</p>
+              <ul class="tag-list"><li>React</li><li>TypeScript</li><li>Electron</li><li>PostgreSQL</li></ul>
+              <a class="text-link" href="https://soft-vet-beta.vercel.app/" target="_blank" rel="noopener noreferrer"><span data-es="Abrir proyecto" data-en="Open project">Abrir proyecto</span><svg class="icon" aria-hidden="true"><use href="#icon-external"></use></svg></a>
+            </div>
+          </article>
+
+          <article class="project-card reveal">
+            <div class="project-number">003</div>
+            <div class="project-content">
+              <div class="project-heading">
+                <div><p class="project-type">FRONTEND · INTEGRATION</p><h3>SICAA FIAD</h3></div>
+                <span class="project-year">2026</span>
+              </div>
+              <p data-es="Migración de interfaz institucional de Blazor a React, con reorganización de rutas, componentes e integración de servicios .NET." data-en="Institutional interface migration from Blazor to React, including route and component restructuring and .NET service integration.">Migración de interfaz institucional de Blazor a React, con reorganización de rutas, componentes e integración de servicios .NET.</p>
+              <ul class="tag-list"><li>React</li><li>TypeScript</li><li>.NET</li><li>REST API</li></ul>
+              <span class="text-link text-link-muted"><span data-es="Proyecto institucional" data-en="Institutional project">Proyecto institucional</span><span aria-hidden="true">●</span></span>
+            </div>
+          </article>
+
+          <article class="project-card reveal">
+            <div class="project-number">004</div>
+            <div class="project-content">
+              <div class="project-heading">
+                <div><p class="project-type">WINDOWS · NATIVE</p><h3>Shelvia</h3></div>
+                <span class="project-year">2025—2026</span>
+              </div>
+              <p data-es="Organizador de escritorio para Windows con estantes semitransparentes, persistencia de estado, arrastre de archivos e integración nativa." data-en="Windows desktop organizer with translucent shelves, persistent state, file dragging and native OS integration.">Organizador de escritorio para Windows con estantes semitransparentes, persistencia de estado, arrastre de archivos e integración nativa.</p>
+              <ul class="tag-list"><li>Python</li><li>CustomTkinter</li><li>pywin32</li><li>ctypes</li><li>C#</li></ul>
+              <span class="text-link text-link-muted"><span data-es="Aplicación de escritorio" data-en="Desktop application">Aplicación de escritorio</span><span aria-hidden="true">●</span></span>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="experience section-shell section-block" id="experiencia" aria-labelledby="experience-title">
+        <div class="section-heading reveal">
+          <span class="section-index">04</span>
+          <div>
+            <p class="section-command">git log --experience</p>
+            <h2 id="experience-title" data-es="Experiencia aplicada." data-en="Applied experience.">Experiencia aplicada.</h2>
+          </div>
+        </div>
+
+        <div class="timeline">
+          <article class="timeline-item reveal">
+            <span class="timeline-marker" aria-hidden="true"></span>
+            <div class="timeline-date">2025—2026</div>
+            <div class="timeline-content"><h3>Jobsy</h3><p class="timeline-role" data-es="Desarrollo full stack y aseguramiento de calidad" data-en="Full stack development and quality assurance">Desarrollo full stack y aseguramiento de calidad</p><p data-es="Implementación frontend, integración de servicios, autenticación, tiempo real, refinamiento funcional y estrategia de pruebas." data-en="Frontend implementation, service integration, authentication, real-time features, functional refinement and testing strategy.">Implementación frontend, integración de servicios, autenticación, tiempo real, refinamiento funcional y estrategia de pruebas.</p></div>
+          </article>
+          <article class="timeline-item reveal">
+            <span class="timeline-marker" aria-hidden="true"></span>
+            <div class="timeline-date">2026</div>
+            <div class="timeline-content"><h3>SICAA FIAD</h3><p class="timeline-role" data-es="Desarrollo frontend e integración" data-en="Frontend development and integration">Desarrollo frontend e integración</p><p data-es="Migración tecnológica, integración con endpoints institucionales, pruebas locales y documentación de dependencias." data-en="Technology migration, institutional endpoint integration, local testing and dependency documentation.">Migración tecnológica, integración con endpoints institucionales, pruebas locales y documentación de dependencias.</p></div>
+          </article>
+          <article class="timeline-item reveal">
+            <span class="timeline-marker" aria-hidden="true"></span>
+            <div class="timeline-date">2025—2026</div>
+            <div class="timeline-content"><h3>SoftVet + Shelvia</h3><p class="timeline-role" data-es="Diseño de producto y desarrollo de escritorio" data-en="Product design and desktop development">Diseño de producto y desarrollo de escritorio</p><p data-es="Arquitectura de sistemas de gestión e investigación práctica de integraciones nativas de Windows." data-en="Management-system architecture and hands-on exploration of native Windows integrations.">Arquitectura de sistemas de gestión e investigación práctica de integraciones nativas de Windows.</p></div>
+          </article>
+        </div>
+
+        <div class="education-panel reveal">
+          <div class="education-code">EDU.01</div>
+          <div><p class="project-type" data-es="FORMACIÓN EN CURSO" data-en="EDUCATION IN PROGRESS">FORMACIÓN EN CURSO</p><h3 data-es="Ingeniería en Software y Tecnologías Emergentes" data-en="Software Engineering and Emerging Technologies">Ingeniería en Software y Tecnologías Emergentes</h3><p data-es="Universidad Autónoma de Baja California · Facultad de Ingeniería, Arquitectura y Diseño" data-en="Autonomous University of Baja California · Faculty of Engineering, Architecture and Design">Universidad Autónoma de Baja California · Facultad de Ingeniería, Arquitectura y Diseño</p></div>
+        </div>
+      </section>
+
+      <section class="contact section-shell section-block" id="contacto" aria-labelledby="contact-title">
+        <div class="contact-panel reveal">
+          <div class="contact-copy">
+            <p class="section-command">./start-a-conversation.sh</p>
+            <h2 id="contact-title" data-es="¿Construimos algo útil?" data-en="Shall we build something useful?">¿Construimos algo útil?</h2>
+            <p data-es="Estoy abierto a oportunidades donde pueda combinar desarrollo, criterio de producto y calidad de software." data-en="I'm open to opportunities where I can combine development, product thinking and software quality.">Estoy abierto a oportunidades donde pueda combinar desarrollo, criterio de producto y calidad de software.</p>
+          </div>
+          <div class="contact-actions">
+            <a class="button button-primary" href="mailto:diego.galindo14@uabc.edu.mx"><svg class="icon" aria-hidden="true"><use href="#icon-mail"></use></svg><span data-es="Enviar correo" data-en="Send email">Enviar correo</span><span aria-hidden="true">↗</span></a>
+            <a class="button button-ghost" href="https://github.com/Dekstro999" target="_blank" rel="noopener noreferrer"><svg class="icon" aria-hidden="true"><use href="#icon-github"></use></svg>GitHub <span aria-hidden="true">↗</span></a>
+            <!-- Enlace oculto temporalmente: el portafolio anterior no está desplegado.
+            <a class="button button-ghost" href="https://portfolio-dekstro999.vercel.app/" target="_blank" rel="noopener noreferrer"><span data-es="Portafolio actual" data-en="Current portfolio">Portafolio actual</span><span aria-hidden="true">↗</span></a>
+            -->
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer section-shell">
+      <p>© <span id="current-year">2026</span> Diego Alonso Ibarra Galindo</p>
+      <p class="footer-status"><span class="status-dot" aria-hidden="true"></span><span data-es="Sistema operativo" data-en="System operational">Sistema operativo</span></p>
+      <a href="#top"><span data-es="Volver arriba" data-en="Back to top">Volver arriba</span> ↑</a>
+    </footer>
+  </body>
+</html>
