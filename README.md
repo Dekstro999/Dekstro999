@@ -1,235 +1,350 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=1000&pause=4000&color=8C33F7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Diego+Alonso+Ibarra+Galindo;Full+Stack+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=44&duration=1800&pause=1800&color=8C33F7&center=true&vCenter=true&width=1200&height=110&lines=Hi+%F0%9F%91%8B%21+I%27m+Diego+Alonso+Ibarra+Galindo;Full+Stack+Software+Developer+from+Mexico;Building+web%2C+desktop+and+enterprise+solutions"
+      alt="Animated introduction"
+    />
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:313131,100:797979&height=160&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=45&fontAlign=50&fontColor=ffffff" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:313131,100:797979&height=160&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=45&fontAlign=50&fontColor=ffffff"
+  width="100%"
+  alt="Welcome banner"
+/>
 
----
+<p align="center">
+  <img
+    src="https://i.ibb.co/Wkycj1K/fondo.jpg"
+    width="100%"
+    alt="Profile banner"
+  />
+</p>
 
-## 🧑🏻‍💻 Sobre Mí
+## Sobre mí
 
-Soy **Diego Alonso Ibarra Galindo**, desarrollador de software full stack apasionado por crear productos digitales y sistemas empresariales. Con experiencia práctica en:
+<img
+  align="right"
+  height="170"
+  src="https://i.ibb.co/xjm4Kr8/Heimer.webp"
+  alt="Heimer animated image"
+/>
 
-- 🎨 **Interfaces web** modernas y responsivas
-- ⚙️ **Servicios backend** escalables
-- 📱 **Aplicaciones móviles** con Expo y React Native
-- 🖥️ **Aplicaciones de escritorio** multiplataforma
-- 🗄️ **Bases de datos** relacionales
-- ✅ **Aseguramiento de calidad** y documentación técnica
+Soy **Diego Alonso Ibarra Galindo**, desarrollador de software full stack y estudiante de **Ingeniería en Software y Tecnologías Emergentes** en la Universidad Autónoma de Baja California.
 
-Especializado en el análisis de requerimientos, arquitectura de soluciones, implementación, pruebas e integración de sistemas completos.
+Mi experiencia se concentra en el desarrollo de productos web, aplicaciones de escritorio y sistemas de gestión. He participado en diferentes etapas del ciclo de desarrollo, desde el análisis y refinamiento de requerimientos hasta la implementación, integración, pruebas, documentación y despliegue.
 
-**📍 Ensenada, Baja California, México**  
-📧 **diego.galindo14@uabc.edu.mx**  
-🌐 **[Portfolio](https://portfolio-dekstro999.vercel.app)**
+Actualmente trabajo principalmente con **React, TypeScript, Java, Spring Boot, .NET y Python**. También tengo experiencia con aplicaciones de escritorio, bases de datos relacionales, servicios REST, autenticación con JWT, comunicación mediante WebSockets y herramientas de análisis de calidad.
 
----
+### Áreas de experiencia
 
-## 🚀 Experiencia en Desarrollo
+- Desarrollo de interfaces web con React, TypeScript, Svelte y SvelteKit.
+- Integración de aplicaciones frontend con servicios backend y APIs REST.
+- Desarrollo de servicios con Java, Spring Boot, C#, .NET y Python.
+- Creación de aplicaciones de escritorio con Electron, CustomTkinter y tecnologías de Windows.
+- Diseño y uso de bases de datos PostgreSQL, SQLite y SQL.
+- Refinamiento de requerimientos y documentación técnica.
+- Preparación, ejecución y análisis de casos de prueba.
+- Revisión de código y calidad con SonarQube, CodeScene y PowerMapper.
+- Despliegue de aplicaciones mediante Vercel y Azure App Service.
 
-### Jobsy - Plataforma Mexicana de Servicios
-**2025 - 2026** | [jobsy-app.vercel.app](https://jobsy-app.vercel.app)
+<p>
+  <a href="mailto:diego.galindo14@uabc.edu.mx">
+    <img
+      src="https://img.shields.io/badge/Correo-diego.galindo14%40uabc.edu.mx-8C33F7?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://portfolio-dekstro999.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Ver%20sitio-313131?style=flat-square&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  <img
+    src="https://img.shields.io/badge/Ubicación-Ensenada%2C%20México-797979?style=flat-square"
+    alt="Location"
+  />
+</p>
 
-Desarrollé el **frontend full stack** de una plataforma que conecta clientes con proveedores de servicios locales (plomería, carpintería, electricidad, etc.).
+<br clear="right" />
 
-**Responsabilidades:**
-- Desarrollo de interfaz con **React** y **TypeScript**
-- Integración con backend **Java Spring Boot** (API REST, JWT, WebSockets)
-- Refinamiento y documentación de **192 requerimientos funcionales**
-- Análisis de **348 casos de prueba**
-- Revisión de calidad con **SonarQube**, **CodeScene** y **PowerMapper**
-- Arquitectura por capas y mantenibilidad del código
-
-**Tech Stack:** React, TypeScript, Java Spring Boot, REST APIs, JWT, WebSockets
-
----
-
-### SoftVet - Sistema de Gestión Veterinaria
-**2026** | [soft-vet-beta.vercel.app](https://soft-vet-beta.vercel.app)
-
-Diseñé e implementé una **solución integral** para consultorio, recepción, hospital y estética veterinaria.
-
-**Funcionalidades:**
-- 📅 Agenda y disponibilidad
-- 📋 Expedientes clínicos y propietarios
-- 💊 Gestión de recetas y alertas
-- 🏥 Hojas de cirugía
-- 💳 Punto de venta e inventario
-- 📸 Almacenamiento de archivos e imágenes
-
-**Arquitectura:** React, Electron, PostgreSQL  
-**Estrategia:** Almacenamiento local o autogestionado
-
-**Tech Stack:** React, Electron, PostgreSQL, TypeScript
-
----
-
-### SICAA FIAD - Migración Frontend
-**2026**
-
-Lideré la **migración** de interfaz de **.NET Blazor a React** manteniendo servicios .NET como backend.
-
-**Actividades:**
-- Reorganización de rutas y componentes
-- Integración de endpoints
-- Pruebas locales y documentación
-- Consulta de información de alumnado por matrícula
-- Recuperación de periodos académicos desde servicios institucionales
-
-**Tech Stack:** React, TypeScript, .NET Backend
-
----
-
-### Shelvia - Organizador de Escritorio para Windows
-**2025 - 2026**
-
-Construí una **aplicación desktop** para organizar escritorios con estantes personalizables y semi-transparentes.
-
-**Características:**
-- 📦 Estantes semitransparentes y persistentes
-- 🖱️ Arrastre de archivos
-- 💾 Persistencia de posición, tamaño y estado
-- 🔌 Integración con funciones nativas de Windows
-
-**Versiones:**
-- **Python:** CustomTkinter, pywin32, ctypes
-- **C#:** Exploración de integración profunda con Windows
-
-**Tech Stack:** Python, C#, CustomTkinter, pywin32
-
----
-
-## 💻 Competencias Técnicas
+## Tecnologías
 
 ### Frontend
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="35" alt="svelte"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3"/>
-</div>
 
-**Frameworks:** React, Svelte, SvelteKit  
-**Lenguajes:** TypeScript, JavaScript, HTML, CSS  
-**Deploy:** Vercel
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="Svelte" title="Svelte" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+</p>
 
-### Backend e Integración
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python"/>
-</div>
+- **Lenguajes:** TypeScript, JavaScript, HTML y CSS.
+- **Frameworks:** React, Svelte y SvelteKit.
+- **Experiencia:** componentes reutilizables, rutas, formularios, consumo de APIs, autenticación, interfaces responsivas y administración de estado.
 
-**Frameworks:** Spring Boot, .NET, ASP.NET  
-**Lenguajes:** Java, C#, Python  
-**Patrones:** REST APIs, JWT, WebSockets, Arquitectura por capas  
+### Backend e integración
 
-### Aplicaciones y Datos
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="35" alt="electron"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite"/>
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C sharp" title="C sharp" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="Dotnet" title="Dotnet" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+</p>
 
-**Desktop:** Electron, CustomTkinter  
-**Mobile:** Expo, React Native  
-**Bases de Datos:** PostgreSQL, SQLite, SQL  
+- **Lenguajes:** Java, C# y Python.
+- **Frameworks:** Spring Boot, .NET y ASP.NET.
+- **Integración:** APIs REST, JWT, WebSockets y arquitectura por capas.
+- **Experiencia:** autenticación, manejo de roles, persistencia, validación de datos e integración frontend-backend.
 
-### Calidad y Entrega
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure"/>
-</div>
+### Aplicaciones de escritorio y móviles
 
-**Control de versiones:** Git, GitHub  
-**Herramientas de Calidad:** SonarQube, CodeScene, PowerMapper  
-**Procesos:** Levantamiento de requerimientos, casos de prueba, documentación técnica  
-**Deploy:** Vercel, Azure App Service
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="Electron" title="Electron" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" title="React Native" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="Windows" title="Windows" />
+</p>
 
----
+- **Desktop:** Electron, CustomTkinter, pywin32, ctypes y C#.
+- **Mobile:** Expo y React Native.
+- **Windows:** manejo de ventanas, persistencia de estado, arrastre de archivos e integración con funciones nativas.
 
-## 📚 Proyectos Académicos Destacados
+### Bases de datos y despliegue
 
-### 🎮 Videojuegos
-- **Ninja-Programming-Adventure** - Juego educativo (Python)
-- **Ninja-Souls** - Videojuego POO (Python)
-- **COSMIC-CHAOS** - Juego en C (Colaboración: FrankSkep)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+</p>
 
-### 🔧 Herramientas
-- **God-Eyes** - Módulo de geolocalización/IP (Python)
-- **ytDown** - Descargador de YouTube (Python)
-- **InventarioCABALLA** - Sistema de inventario (Python, SQLite)
+- **Bases de datos:** PostgreSQL, SQLite y SQL.
+- **Control de versiones:** Git y GitHub.
+- **Despliegue:** Vercel y Azure App Service.
+- **Entornos:** desarrollo y pruebas locales, aplicaciones web y servicios desplegados en Linux.
 
-### 📱 Aplicaciones Móviles
-- **PokeAPI-Expo** - App con consumo de APIs (Expo, TypeScript)
-- **app-movil** - Aplicación móvil (React Native, TypeScript)
+### Calidad de software
 
-### 🖥️ Desktop & Utilidades
-- **FileExplorerUABC** - Explorador de archivos (C#)
-- **Calculator** - Calculadora web (HTML/CSS/JavaScript)
-- **CalculatorPy** - Calculadora (Python)
+<p>
+  <img
+    src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"
+    alt="SonarQube"
+  />
+  <img
+    src="https://img.shields.io/badge/CodeScene-6A45FF?style=for-the-badge"
+    alt="CodeScene"
+  />
+  <img
+    src="https://img.shields.io/badge/PowerMapper-444444?style=for-the-badge"
+    alt="PowerMapper"
+  />
+  <img
+    src="https://img.shields.io/badge/Pruebas%20de%20software-1F6FEB?style=for-the-badge"
+    alt="Software testing"
+  />
+</p>
 
----
+Tengo experiencia en:
 
-## 🤝 Colaboraciones
+- Levantamiento, análisis y refinamiento de requerimientos.
+- Redacción de requerimientos funcionales y no funcionales.
+- Diseño y documentación de casos de prueba.
+- Análisis de resultados y seguimiento de hallazgos.
+- Inspección de código y detección de problemas de mantenibilidad.
+- Documentación técnica y aseguramiento de calidad.
 
-- **Jobsy** - Colaboración full stack con [FrankSkep](https://github.com/FrankSkep) (Backend Java Spring Boot)
-- **ISyTE-Core-Labs** - Múltiples proyectos empresariales:
-  - **SIPA-FIAD, SIPA-JTS, SIPA-SAL** - Sistemas de gestión institucional
-  - **HU-Frontend, HU-Backend** - Plataforma empresarial
-  - **auth-backend-SIPA** - Servicios de autenticación (C#)
+## Proyectos destacados
 
----
+### Jobsy
 
-## 📊 Estadísticas
+**Plataforma de conexión entre clientes y proveedores de servicios locales**
+
+Jobsy es una plataforma mexicana que permite buscar y contratar proveedores para servicios como plomería, electricidad, fotografía, tutorías y otros servicios locales.
+
+Entre sus funcionalidades se encuentran:
+
+- Autenticación y administración de usuarios.
+- Perfiles para clientes y proveedores.
+- Publicación y consulta de servicios.
+- Manejo de disponibilidad.
+- Solicitudes y reservas.
+- Mensajería mediante WebSockets.
+- Notificaciones.
+- Paneles de administración.
+- Gestión de distintos roles dentro del sistema.
+
+Mis principales aportaciones fueron:
+
+- Desarrollo del frontend con React y TypeScript.
+- Integración con el backend construido con Java y Spring Boot.
+- Consumo de APIs REST.
+- Integración de autenticación mediante JWT.
+- Integración de comunicación en tiempo real mediante WebSockets.
+- Refinamiento y documentación de cerca de 192 requerimientos funcionales.
+- Preparación y análisis de 348 casos de prueba.
+- Revisión del código con SonarQube y CodeScene.
+- Revisión de interfaces y enlaces con PowerMapper.
+
+**Tecnologías:** React, TypeScript, Java, Spring Boot, REST, JWT y WebSockets.
+
+[Ver aplicación](https://jobsy-app.vercel.app/)
+
+### SoftVet
+
+**Sistema de gestión para clínicas veterinarias**
+
+SoftVet es un sistema diseñado para apoyar las operaciones de consultorios y clínicas veterinarias.
+
+El sistema contempla módulos para:
+
+- Gestión de citas y disponibilidad.
+- Expedientes clínicos.
+- Registro de propietarios y pacientes.
+- Consultorio y recepción.
+- Hospitalización.
+- Servicios de estética.
+- Recetas médicas.
+- Alertas internas.
+- Hojas de cirugía.
+- Punto de venta.
+- Inventario y control de existencias.
+- Generación de tickets y comprobantes.
+
+La arquitectura utiliza React para la interfaz, Electron para la aplicación de escritorio y PostgreSQL para el almacenamiento de información.
+
+También se considera una estrategia de almacenamiento local o autogestionado para conservar archivos e imágenes sin depender de servicios externos como Cloudinary.
+
+**Tecnologías:** React, TypeScript, Electron y PostgreSQL.
+
+[Ver aplicación](https://soft-vet-beta.vercel.app/)
+
+### SICAA FIAD
+
+**Migración de interfaz e integración con servicios institucionales**
+
+En SICAA FIAD participé en la evolución de una aplicación que inicialmente utilizaba .NET Blazor para la interfaz.
+
+El equipo decidió reemplazar el frontend de Blazor por React, manteniendo los servicios desarrollados con .NET como backend.
+
+Mis actividades incluyeron:
+
+- Participación en la migración de la interfaz hacia React.
+- Organización de rutas y componentes.
+- Integración con endpoints del backend.
+- Revisión de la estructura del frontend.
+- Pruebas locales de las funcionalidades disponibles.
+- Documentación del estado del proyecto.
+- Identificación de dependencias con servicios institucionales.
+
+Algunas funciones dependen de servicios externos para consultar información del alumnado por matrícula y obtener los periodos académicos correspondientes.
+
+**Tecnologías:** React, TypeScript, .NET y APIs REST.
+
+### Shelvia
+
+**Organizador de escritorio para Windows**
+
+Shelvia es una aplicación de escritorio creada para organizar carpetas, archivos y aplicaciones mediante estantes personalizables.
+
+Cada estante funciona como una ventana semitransparente integrada al escritorio de Windows.
+
+Entre sus funciones se encuentran:
+
+- Creación y administración de diferentes estantes.
+- Organización de archivos y carpetas.
+- Persistencia de posición y tamaño.
+- Registro del estado normal o minimizado.
+- Movimiento y redimensionamiento de ventanas sin bordes.
+- Arrastre de archivos.
+- Integración con funciones nativas de Windows.
+- Administración centralizada de los estantes.
+- Menús contextuales similares a los del explorador de archivos.
+
+La versión principal fue desarrollada con Python, CustomTkinter, pywin32 y ctypes. También se creó una variante en C# para explorar una integración más profunda con Windows.
+
+**Tecnologías:** Python, CustomTkinter, pywin32, ctypes y C#.
+
+## Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dekstro999&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dekstro999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="180" alt="top languages" />
+  <img
+    src="https://streak-stats.demolab.com?user=Dekstro999&locale=es&mode=daily&theme=dracula&hide_border=true&border_radius=8"
+    height="175"
+    alt="GitHub streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Dekstro999&locale=es&layout=compact&card_width=340&langs_count=8&theme=dracula&hide_border=true"
+    height="175"
+    alt="Most used languages"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dekstro999&theme=redical" height="360" alt="activity-graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dekstro999&theme=redical&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub activity graph"
+  />
 </div>
 
----
+## Formación
 
-## 🎓 Educación
+**Universidad Autónoma de Baja California**
 
-**Universidad Autónoma de Baja California (UABC)**  
-📚 **Ingeniería en Software y Tecnologías Emergentes** | En curso  
-Facultad de Ingeniería, Arquitectura y Diseño
+Ingeniería en Software y Tecnologías Emergentes  
+Facultad de Ingeniería, Arquitectura y Diseño  
+Ensenada, Baja California, México
 
----
-
-## 📞 Conecta Conmigo
+## Contacto
 
 <div align="center">
-  <a href="https://github.com/Dekstro999" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  <a href="https://github.com/Dekstro999">
+    <img
+      src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="GitHub"
+    />
   </a>
-  <a href="mailto:diego.galindo14@uabc.edu.mx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="mailto:diego.galindo14@uabc.edu.mx">
+    <img
+      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="Email"
+    />
   </a>
-  <a href="https://discord.gg/BjYKKX8P" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="https://portfolio-dekstro999.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=about.me&label=&color=ff6b6b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  <a href="https://portfolio-dekstro999.vercel.app/">
+    <img
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="Portfolio"
+    />
   </a>
 </div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:313131,100:797979&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  <p>⭐ Si te interesa mi trabajo, no olvides dejar una estrella en mis repositorios 🚀</p>
-  <p>Made with ❤️ by Diego Alonso Ibarra Galindo</p>
-</div>
+<br />
 
 ![Snake animation](https://github.com/Dekstro999/Dekstro999/blob/output/snake.svg)
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:313131,100:797979&height=120&section=footer"
+  width="100%"
+  alt="Footer"
+/>
